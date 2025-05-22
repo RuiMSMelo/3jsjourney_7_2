@@ -8,7 +8,6 @@ const toto = true
 
 root.render(
 	<>
-		{/* prettier-ignore */}
 		<App></App>
 	</>,
 )

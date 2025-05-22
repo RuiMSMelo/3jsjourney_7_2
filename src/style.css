@@ -1,0 +1,15 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+.button-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.button-div * {
+	padding: 10px;
+}

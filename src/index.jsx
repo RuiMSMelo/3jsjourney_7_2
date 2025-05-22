@@ -8,6 +8,6 @@ const toto = true
 
 root.render(
 	<>
-		<App></App>
+		<App clickersCount={3}></App>
 	</>,
 )
